@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498760687723",
+    "firebase_url": "https://mybusapp-6cfd7.firebaseio.com",
+    "project_id": "mybusapp-6cfd7",
+    "storage_bucket": "mybusapp-6cfd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498760687723:android:7348c56b3df1f10f",
+        "android_client_info": {
+          "package_name": "com.example.achintya.mybusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498760687723-ns2d2qdg39ek5khrvsknfjvgm0fv9i3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.achintya.mybusapp",
+            "certificate_hash": "136be9b016436885b6131110e189ffbd4052f93d"
+          }
+        },
+        {
+          "client_id": "498760687723-uompc70m48iq2idnkpcsd1m60g0bft09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoxlZ29zG2vkNRuT405HWUgyoK88JZs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498760687723-uompc70m48iq2idnkpcsd1m60g0bft09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
